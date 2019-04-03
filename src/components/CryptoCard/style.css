@@ -1,0 +1,39 @@
+.card {
+  background: url("https://il6.picdn.net/shutterstock/videos/12036866/thumb/1.jpg");
+  border-radius: 2px;
+  height: 325px;
+  margin: 1rem;
+  position: relative;
+  width: 325px;
+  text-align: left;
+}
+
+img {
+  margin-top: 20px;
+  width: 200px;
+  height: 120px;
+  margin-top: 70px;
+}
+
+.card {
+  margin-left: 20%;
+}
+.card > .img-container {
+  height: 60%;
+  overflow: hidden;
+  text-align: center;
+  background: url("https://il6.picdn.net/shutterstock/videos/12036866/thumb/1.jpg")
+}
+
+.card > .remove {
+  color: #ff1744;
+  font-size: 48px;
+  position: absolute;
+  top: -20px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.card > .remove:hover {
+  color: #d50000;
+}
