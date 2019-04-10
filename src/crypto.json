@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png"
+    },
+    {
+        "id": 2,
+        "image": "https://mybroadband.co.za/news/wp-content/uploads/2017/12/Ethereum-logo-plain.jpg"
+    },
+    {
+        "id": 3,
+        "image": "https://cryptoslate.com/wp-content/uploads/2017/09/xrp-logo.jpg"
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/teepublic/image/private/s--2_9Hj3lv--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1521998441/production/designs/2528147_0.jpg"
+    },
+    {
+        "id": 5,
+        "image": "https://dwglogo.com/wp-content/uploads/2017/08/1200px-Litecoin_logo.png"
+    },
+    {
+        "id": 6,
+        "image": "https://btc-sites.com/____impro/1/onewebmedia/binancelogo.png?etag=W%2F%225b77-5af644c6%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=198%2B198"
+    },
+    {
+        "id": 7,
+        "image": "https://www.ilbitcoin.news/wp/wp-content/uploads/2018/01/stellar.png"
+    },
+    {
+        "id": 8,
+        "image": "https://logos-download.com/wp-content/uploads/2018/04/Tether_logo_coin-700x700.png"
+    },
+    {
+        "id": 9,
+        "image": "https://fangalbert.com/wp-content/uploads/2018/03/tron-logo-crypto.png"
+    },
+    {
+        "id": 10,
+        "image": "https://i.gadgets360cdn.com/large/monero_cryptocurrency_1518527179837.jpg?output-quality=80"
+    },
+    {
+        "id": 11,
+        "image": "https://cryptomined.com/images/flags/dash_circle_Flag_1.png"
+    },
+    {
+        "id": 12,
+        "image": "https://pbs.twimg.com/profile_images/877916411108237312/QLVWgJb6_400x400.jpg"
+    }
+]
